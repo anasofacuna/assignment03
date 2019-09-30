@@ -4,7 +4,7 @@
 	<header>
 			<a href="jialin_huo.php">
 				<h1>Jialin Huo</h1>
-		        <img src="images/Jialin.jpg" alt="Jialin Picture">
+		        <img src="images/jialin.jpg" alt="Jialin Picture">
 		    </a>
 	</header>
 	
