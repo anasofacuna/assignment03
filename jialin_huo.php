@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>International Students|Jialin</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php $pageTitle = "International Students | Jialin"; include "inc/heading.php"; ?>
+
 <body class="container">
 	<header>
 			<a href="jialin_huo.php">

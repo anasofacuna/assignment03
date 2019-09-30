@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>International Students</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php $pageTitle = "International Students"; include "inc/heading.php"; ?>
+
 <body>
 	<header>
 			<a href="index.php">
@@ -27,6 +22,6 @@
 	</main>
 
 	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
-	
+
 </body>
 </html>
