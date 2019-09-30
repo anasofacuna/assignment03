@@ -18,7 +18,7 @@
 			<li><a href="index.php">Main</a></li>
 			<li><a href="jialin_huo.php">Jialin</a></li>
 			<li><a href="maria_mancheno.php">Maria</a></li>
-			<li><a href="richard_o_akomea.php">Richard</a></li>
+			<li><a href="richard_o_akomea.php" class="is-current">Richard</a></li>
 		</ul>
 	</nav>
 	
@@ -41,7 +41,5 @@
 
 	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
 
-	<script src="http://code.jquery.com/jquery.js"></script>
-	<script src="js/menu-highlighter.js"></script>
 </body>
 </html>

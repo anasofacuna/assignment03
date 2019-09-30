@@ -7,16 +7,18 @@
 </head>
 <body>
 	<header>
-		<h1>Welcome</h1>
-		<img src="images/brook.jpg" alt="Brooklyn Picture">
+			<a href="index.php">
+				<h1>Welcome</h1>
+				<img src="images/brook.jpg" alt="Brooklyn Picture">
+			</a>
 	</header>
 
 	<nav class="main">
 		<ul>
-			<li><a href="index.html">Main</a></li>
-			<li><a href="jialin_huo.html">Jialin</a></li>
-			<li><a href="maria_mancheno.html">Maria</a></li>
-			<li><a href="richard_o_akomea.html">Richard</a></li>
+			<li><a href="index.php">Main</a></li>
+			<li><a href="jialin_huo.php">Jialin</a></li>
+			<li><a href="maria_mancheno.php">Maria</a></li>
+			<li><a href="richard_o_akomea.php">Richard</a></li>
 		</ul>
 	</nav>
 	
@@ -25,5 +27,6 @@
 	</main>
 
 	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
+	
 </body>
 </html>
