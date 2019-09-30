@@ -2,8 +2,8 @@
 
 <body class="container">
 	<header>
+		<h1>Jialin Huo</h1>
 			<a href="jialin_huo.php">
-				<h1>Jialin Huo</h1>
 		        <img src="images/jialin.jpg" alt="Jialin Picture">
 		    </a>
 	</header>

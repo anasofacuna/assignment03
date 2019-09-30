@@ -2,8 +2,8 @@
 
 <body class="container">
 	<header>
+		<h1>Richard O Akomea</h1>
 			<a href="richard_o_akomea.php">
-				<h1>Richard O Akomea</h1>
 		        <img src="images/richie.jpg" alt="richie Picture">
 		    </a>
 	</header>

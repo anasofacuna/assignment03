@@ -2,8 +2,8 @@
 
 <body class="container">
 	<header>
+		<h1>Maria Mancheno</h1>
 			<a href="maria_mancheno.php">
-				<h1>Maria Mancheno</h1>
 		        <img src="images/photo-maria.jpg" alt="maria Picture">
 		    </a>
 	</header>
