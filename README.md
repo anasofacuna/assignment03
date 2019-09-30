@@ -1,5 +1,6 @@
 # Assignment 3 Brooklyn - International Students
-*This document is about intformation Architecture of Assignment 3*
+## Botao Jiang - information Architect
+*This document is about intformation Architecture of Assignment 3. All students picked are international students or born overseas.*
 
 ### Ontology
 - The people chosen are international students
