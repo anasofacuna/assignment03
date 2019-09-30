@@ -7,7 +7,7 @@
 </head>
 <body class="container">
 	<header>
-			<a href="richard_o_akomea.html">
+			<a href="richard_o_akomea.php">
 				<h1>Richard O Akomea</h1>
 		        <img src="images/richie.jpg" alt="richie Picture">
 		    </a>
@@ -15,20 +15,15 @@
 	
 	<nav class="main">
 		<ul>
-			<li><a href="index.html">Main</a></li>
-			<li><a href="jialin_huo.html">Jialin</a></li>
-			<li><a href="maria_mancheno.html">Maria</a></li>
-			<li><a href="richard_o_akomea.html">Richard</a></li>
+			<li><a href="index.php">Main</a></li>
+			<li><a href="jialin_huo.php">Jialin</a></li>
+			<li><a href="maria_mancheno.php">Maria</a></li>
+			<li><a href="richard_o_akomea.php">Richard</a></li>
 		</ul>
 	</nav>
 	
-	<nav class="sub">
-		<ul>
-			<li><a href="#home">Home</a></li>
-			<li><a href="#early">Early Days</a></li>
-			<li><a href="#personal">Personal Life</a></li>
-		</ul>
-	</nav>
+	<?php include 'inc/sub-nav.php';?> 
+
 	<section id="home">
 		<h2>Intro</h2>
 		<p>Richard Owusu Akomea was born on April 11, 1997, in Tarkwa, Ghana. His father, Richard Kofi Akomea, is a Reverend Pastor and a practising Pentecostal from Amuanna Praso, Tano, and worked as a Farmer, working at the ministry of Forestry in his early career.Richard's mother, Joyce Arko Akomea, is an Akan from Akyim who worked as an English teacher and florist. His parents met after Richard held a sermon at Church of Pentecost- Koforidua, where he first interacted with Joyce, who was in attendance. He is a citizen of Ghana. In his youth, Richard attended a Catholic day school, and formally celebrated becoming a kindergarten graduate in a religious service.</p>

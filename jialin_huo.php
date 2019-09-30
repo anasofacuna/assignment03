@@ -7,7 +7,7 @@
 </head>
 <body class="container">
 	<header>
-			<a href="jialin_huo.html">
+			<a href="jialin_huo.php">
 				<h1>Jialin Huo</h1>
 		        <img src="images/Jialin.jpg" alt="Jialin Picture">
 		    </a>
@@ -15,20 +15,15 @@
 	
 	<nav class="main">
 		<ul>
-			<li><a href="index.html">Main</a></li>
-			<li><a href="jialin_huo.html">Jialin</a></li>
-			<li><a href="maria_mancheno.html">Maria</a></li>
-			<li><a href="richard_o_akomea.html">Richard</a></li>
+			<li><a href="index.php">Main</a></li>
+			<li><a href="jialin_huo.php">Jialin</a></li>
+			<li><a href="maria_mancheno.php">Maria</a></li>
+			<li><a href="richard_o_akomea.php">Richard</a></li>
 		</ul>
 	</nav>
 	
-	<nav class="sub">
-		<ul>
-			<li><a href="#home">Home</a></li>
-			<li><a href="#early">Early Days</a></li>
-			<li><a href="#personal">Personal Life</a></li>
-		</ul>
-	</nav>
+	<?php include 'inc/sub-nav.php';?> 
+
 	<section id="home">
 		<h2>Intro</h2>
 		<p>As a fifth-year student at the University of Rochester, I am double majoring in Business Finance and Art History, with a minor in Computer Science. Due to computer science and coding’s popularity and its extensive use in all kinds of fields and the business world, I have decided to re-classify from Class of 2019 to Class of 2020 in order to complete this challenging but extremely useful minor and coding abilities. Until now, I have acquired coding experience including Python, R Studio, HTML, CSS and little knowledge of JavaScript Plugins and I am thrilled to learn more from both my professors and classmates.</p>
