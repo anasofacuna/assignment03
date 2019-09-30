@@ -2,9 +2,9 @@
 *This document is about intformation Architecture of Assignment 3*
 
 ### Ontology
-- Jialin Huo
-- Maria Mancheno
-- Richard O Akomea
+- The people chosen are international students
+- The people chosen have some hobbies outside classroom
+- The people chosen have experience living overseas
 
 ### Taxonomy
 - Intro
@@ -12,4 +12,4 @@
 - Personal Life
 
 ### Choreography
-They are ranked by alphabetical order
+The students are ranked by alphabetical order.The internal sections are ranked from core information to more detailed information.
