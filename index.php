@@ -2,8 +2,8 @@
 
 <body>
 	<header>
+		<h1>Welcome</h1>
 			<a href="index.php">
-				<h1>Welcome</h1>
 				<img src="images/brook.jpg" alt="Brooklyn Picture">
 			</a>
 	</header>
